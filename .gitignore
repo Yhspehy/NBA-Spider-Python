@@ -1,0 +1,10 @@
+__pycache__
+output.html
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+lib/
+bin/
