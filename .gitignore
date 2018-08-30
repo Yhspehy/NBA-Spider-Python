@@ -1,10 +1,7 @@
 __pycache__
-output.html
+pip-selfcheck.json
 *.py[cod]
-*.so
-*.egg
-*.egg-info
-dist
-build
 lib/
 bin/
+include/
+json/

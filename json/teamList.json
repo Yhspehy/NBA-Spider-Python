@@ -1,432 +1,428 @@
 {
-    "code": 0,
-    "data": {
-        "east": [
-            {
-                "name": "猛龙",
-                "badge": "http://img1.gtimg.com/sports/pics/hv1/133/21/2268/147482188.png",
-                "teamId": "28",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "凯尔特人",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/2.png",
-                "teamId": "2",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "76人",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/20.png",
-                "teamId": "20",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "骑士",
-                "badge": "http://img1.gtimg.com/sports/pics/hv1/131/116/2220/144385211.png",
-                "teamId": "5",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "步行者",
-                "badge": "http://img1.gtimg.com/sports/pics/hv1/43/116/2220/144385123.png",
-                "teamId": "11",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "热火",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/14.png",
-                "teamId": "14",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "雄鹿",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/15.png",
-                "teamId": "15",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "奇才",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/27.png",
-                "teamId": "27",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "活塞",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/new/8.png",
-                "teamId": "8",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "黄蜂",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/30.png",
-                "teamId": "30",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "尼克斯",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/18.png",
-                "teamId": "18",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "篮网",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/17.png",
-                "teamId": "17",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "公牛",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/4.png",
-                "teamId": "4",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "魔术",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/19.png",
-                "teamId": "19",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "老鹰",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/1.png",
-                "teamId": "1",
-                "cate": "2",
-                "competitionId": "100000"
-            }
-        ],
-        "all": [
-            {
-                "name": "猛龙",
-                "badge": "http://img1.gtimg.com/sports/pics/hv1/133/21/2268/147482188.png",
-                "teamId": "28",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "凯尔特人",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/2.png",
-                "teamId": "2",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "76人",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/20.png",
-                "teamId": "20",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "骑士",
-                "badge": "http://img1.gtimg.com/sports/pics/hv1/131/116/2220/144385211.png",
-                "teamId": "5",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "步行者",
-                "badge": "http://img1.gtimg.com/sports/pics/hv1/43/116/2220/144385123.png",
-                "teamId": "11",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "热火",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/14.png",
-                "teamId": "14",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "雄鹿",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/15.png",
-                "teamId": "15",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "奇才",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/27.png",
-                "teamId": "27",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "活塞",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/new/8.png",
-                "teamId": "8",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "黄蜂",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/30.png",
-                "teamId": "30",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "尼克斯",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/18.png",
-                "teamId": "18",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "篮网",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/17.png",
-                "teamId": "17",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "公牛",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/4.png",
-                "teamId": "4",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "魔术",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/19.png",
-                "teamId": "19",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "老鹰",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/1.png",
-                "teamId": "1",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "火箭",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/10.png",
-                "teamId": "10",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "勇士",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/black/9.png",
-                "teamId": "9",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "开拓者",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/new/22.png",
-                "teamId": "22",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "雷霆",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/25.png",
-                "teamId": "25",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "爵士",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/26.png",
-                "teamId": "26",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "鹈鹕",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/3.png",
-                "teamId": "3",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "马刺",
-                "badge": "http://img1.gtimg.com/sports/pics/hv1/231/116/2220/144385311.png",
-                "teamId": "24",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "森林狼",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/new/16.png",
-                "teamId": "16",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "掘金",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/7.png",
-                "teamId": "7",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "快船",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/1201.png",
-                "teamId": "12",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "湖人",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/13.png",
-                "teamId": "13",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "国王",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/23.png",
-                "teamId": "23",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "独行侠",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/6.png",
-                "teamId": "6",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "灰熊",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/29.png",
-                "teamId": "29",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "太阳",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/21.png",
-                "teamId": "21",
-                "cate": "2",
-                "competitionId": "100000"
-            }
-        ],
-        "west": [
-            {
-                "name": "火箭",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/10.png",
-                "teamId": "10",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "勇士",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/black/9.png",
-                "teamId": "9",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "开拓者",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/new/22.png",
-                "teamId": "22",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "雷霆",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/25.png",
-                "teamId": "25",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "爵士",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/26.png",
-                "teamId": "26",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "鹈鹕",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/3.png",
-                "teamId": "3",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "马刺",
-                "badge": "http://img1.gtimg.com/sports/pics/hv1/231/116/2220/144385311.png",
-                "teamId": "24",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "森林狼",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/new/16.png",
-                "teamId": "16",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "掘金",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/7.png",
-                "teamId": "7",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "快船",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/1201.png",
-                "teamId": "12",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "湖人",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/13.png",
-                "teamId": "13",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "国王",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/23.png",
-                "teamId": "23",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "独行侠",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/6.png",
-                "teamId": "6",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "灰熊",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/29.png",
-                "teamId": "29",
-                "cate": "2",
-                "competitionId": "100000"
-            },
-            {
-                "name": "太阳",
-                "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/21.png",
-                "teamId": "21",
-                "cate": "2",
-                "competitionId": "100000"
-            }
-        ]
-    },
-    "version": "bdb7effdaad30193d7341ce77f1c1b20"
+    "east": [
+        {
+            "name": "猛龙",
+            "badge": "http://img1.gtimg.com/sports/pics/hv1/133/21/2268/147482188.png",
+            "teamId": "28",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "凯尔特人",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/2.png",
+            "teamId": "2",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "76人",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/20.png",
+            "teamId": "20",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "骑士",
+            "badge": "http://img1.gtimg.com/sports/pics/hv1/131/116/2220/144385211.png",
+            "teamId": "5",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "步行者",
+            "badge": "http://img1.gtimg.com/sports/pics/hv1/43/116/2220/144385123.png",
+            "teamId": "11",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "热火",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/14.png",
+            "teamId": "14",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "雄鹿",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/15.png",
+            "teamId": "15",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "奇才",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/27.png",
+            "teamId": "27",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "活塞",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/new/8.png",
+            "teamId": "8",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "黄蜂",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/30.png",
+            "teamId": "30",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "尼克斯",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/18.png",
+            "teamId": "18",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "篮网",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/17.png",
+            "teamId": "17",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "公牛",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/4.png",
+            "teamId": "4",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "魔术",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/19.png",
+            "teamId": "19",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "老鹰",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/1.png",
+            "teamId": "1",
+            "cate": "2",
+            "competitionId": "100000"
+        }
+    ],
+    "all": [
+        {
+            "name": "猛龙",
+            "badge": "http://img1.gtimg.com/sports/pics/hv1/133/21/2268/147482188.png",
+            "teamId": "28",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "凯尔特人",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/2.png",
+            "teamId": "2",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "76人",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/20.png",
+            "teamId": "20",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "骑士",
+            "badge": "http://img1.gtimg.com/sports/pics/hv1/131/116/2220/144385211.png",
+            "teamId": "5",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "步行者",
+            "badge": "http://img1.gtimg.com/sports/pics/hv1/43/116/2220/144385123.png",
+            "teamId": "11",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "热火",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/14.png",
+            "teamId": "14",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "雄鹿",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/15.png",
+            "teamId": "15",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "奇才",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/27.png",
+            "teamId": "27",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "活塞",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/new/8.png",
+            "teamId": "8",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "黄蜂",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/30.png",
+            "teamId": "30",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "尼克斯",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/18.png",
+            "teamId": "18",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "篮网",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/17.png",
+            "teamId": "17",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "公牛",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/4.png",
+            "teamId": "4",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "魔术",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/19.png",
+            "teamId": "19",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "老鹰",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/1.png",
+            "teamId": "1",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "火箭",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/10.png",
+            "teamId": "10",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "勇士",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/black/9.png",
+            "teamId": "9",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "开拓者",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/new/22.png",
+            "teamId": "22",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "雷霆",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/25.png",
+            "teamId": "25",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "爵士",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/26.png",
+            "teamId": "26",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "鹈鹕",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/3.png",
+            "teamId": "3",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "马刺",
+            "badge": "http://img1.gtimg.com/sports/pics/hv1/231/116/2220/144385311.png",
+            "teamId": "24",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "森林狼",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/new/16.png",
+            "teamId": "16",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "掘金",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/7.png",
+            "teamId": "7",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "快船",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/1201.png",
+            "teamId": "12",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "湖人",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/13.png",
+            "teamId": "13",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "国王",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/23.png",
+            "teamId": "23",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "独行侠",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/6.png",
+            "teamId": "6",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "灰熊",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/29.png",
+            "teamId": "29",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "太阳",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/21.png",
+            "teamId": "21",
+            "cate": "2",
+            "competitionId": "100000"
+        }
+    ],
+    "west": [
+        {
+            "name": "火箭",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/10.png",
+            "teamId": "10",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "勇士",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/black/9.png",
+            "teamId": "9",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "开拓者",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/new/22.png",
+            "teamId": "22",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "雷霆",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/25.png",
+            "teamId": "25",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "爵士",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/26.png",
+            "teamId": "26",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "鹈鹕",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/3.png",
+            "teamId": "3",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "马刺",
+            "badge": "http://img1.gtimg.com/sports/pics/hv1/231/116/2220/144385311.png",
+            "teamId": "24",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "森林狼",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/new/16.png",
+            "teamId": "16",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "掘金",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/7.png",
+            "teamId": "7",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "快船",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/1201.png",
+            "teamId": "12",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "湖人",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/13.png",
+            "teamId": "13",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "国王",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/23.png",
+            "teamId": "23",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "独行侠",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/6.png",
+            "teamId": "6",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "灰熊",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/29.png",
+            "teamId": "29",
+            "cate": "2",
+            "competitionId": "100000"
+        },
+        {
+            "name": "太阳",
+            "badge": "http://mat1.gtimg.com/sports/nba/logo/1602/21.png",
+            "teamId": "21",
+            "cate": "2",
+            "competitionId": "100000"
+        }
+    ]
 }
